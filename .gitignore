@@ -1,0 +1,14 @@
+# Go specific
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Go binaries
+/bin/
+/pkg/
+/out/
+
+# VS Code specific
+.vscode/
